@@ -1,4 +1,4 @@
-//Get the button
+//Button: Back-to-top
 let mybutton = document.getElementById("back-to-top-button");
 
 window.onscroll = function () {
@@ -15,7 +15,6 @@ function scrollFunction() {
     mybutton.style.display = "none";
   }
 }
-// When the user clicks on the button, scroll to the top of the document
 mybutton.addEventListener("click", backToTop);
 
 function backToTop() {
