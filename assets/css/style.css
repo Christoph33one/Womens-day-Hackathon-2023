@@ -7,16 +7,14 @@
     border: #fafafa;
     background-color: red;
     color: black;
-    cursor: pointer;
     padding: 15px;
     border-radius: 70px;
 };
 
-.btn-primary {
-    background-color:#002147;
-    border-radius: 50px;
-}
 
+.mark{
+    background-color:#FF007F;
+}
 
 /* Mentoring page styles */
 
