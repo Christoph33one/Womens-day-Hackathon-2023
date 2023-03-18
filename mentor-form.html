@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--The head page contain the title, meta charts, scripts and links.-->
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Femme in tech. - Mentoring</title>
+
+    <script src="assets/js/script.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://getbootstrap.com/docs/5.2/assets/css/docs.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://getbootstrap.com/docs/5.2/assets/css/docs.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://kit.fontawesome.com/b678a35cb2.js" crossorigin="anonymous"></script>
+    <!--favicon-->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+</head>
+
+<body>
+    <!--The navbar containing links to redirecting users to each page available-->
+    <nav class="navbar bg-body-tertiary fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html"><img class="logo" src="assets/images/logo.png" style="
+        width: 50%;
+        height: auto;
+        border-radius: 10px;
+    "></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
+                aria-controls="offcanvasNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+                aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel"><img class="logo1"
+                            src="assets/images/logo.png" style="
+            width: 70%;
+            height: auto;
+            border-radius: 10px;
+        "></h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="aboutus.html">About us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="history.html">History</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="contactform.html">Contact us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="mentoring.html">Mentoring</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="donate.html">Donate</a>
+                        </li>
+                </div>
+            </div>
+    </nav>
+    <main>
+
+
+        <h1>
+            Become a mentor
+        </h1>
+
+        <div>
+            <form>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
+                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Password</label>
+                    <input type="password" class="form-control" id="password">
+                </div>
+                <div class="mb-3">
+                    <label for="fname" class="form-label">First Name</label>
+                    <input type="text" class="form-control" id="fname">
+                </div>
+                <div class="mb-3">
+                    <label for="lname" class="form-label">Last Name</label>
+                    <input type="text" class="form-control" id="nmae">
+                </div>
+                <div class="mb-3">
+                    <label for="fname" class="form-label">First Name</label>
+                    <input type="text" class="form-control" id="fname">
+                </div>
+                <div class="mb-3">
+                    <label for="age" class="form-label">Your age</label>
+                    <input type="number" class="form-control" id="age">
+                </div>
+                <div class="mb-3">
+                    <label for="country" class="form-label">Country of residence</label>
+                    <input type="text" class="form-control" id="country">
+                </div>
+                <div class="mb-3">
+                    <label for="linkedin" class="form-label">LinkedIn profile</label>
+                    <input type="text" class="form-control" id="linkedin">
+                </div>
+                <div class="mb-3">
+                    <label for="job" class="form-label">Job title</label>
+                    <input type="text" class="form-control" id="job">
+                </div>
+                <div class="mb-3">
+                    <label for="company" class="form-label">Company Name</label>
+                    <input type="text" class="form-control" id="company">
+                </div>
+                <div class="mb-3">
+                    <label for="experience" class="form-label">How many years of experience do you have in your main
+                        professional field?*</label>
+                    <input type="text" class="form-control" id="experience">
+                </div>
+
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job1">
+                    <label class="form-check-label" for="job1">Software engineering: Fronted development</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job2">
+                    <label class="form-check-label" for="job2">Software engineering: Backend development</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job3">
+                    <label class="form-check-label" for="job3">Software engineering: Full-stack development</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job4">
+                    <label class="form-check-label" for="job4">QA testing</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job5">
+                    <label class="form-check-label" for="job5">Data science and analytics </label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job6">
+                    <label class="form-check-label" for="job6">Business analytics, system analysis</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job7">
+                    <label class="form-check-label" for="job7">Product management </label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job8">
+                    <label class="form-check-label" for="job8">Project management</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job9">
+                    <label class="form-check-label" for="job9">Digital marketing</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job10">
+                    <label class="form-check-label" for="job10">UX/UI design</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job11">
+                    <label class="form-check-label" for="job11">Entrepreneurship and startups</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job12">
+                    <label class="form-check-label" for="job12">Leadership and management</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job13">
+                    <label class="form-check-label" for="job13">Human resources</label>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="job14">
+                    <label class="form-check-label" for="job14">Other</label>
+                </div>
+                <div class="form-floating">
+                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                    <label for="floatingTextarea">Please provide a short bio about yourself, e.g. a summary of your work
+                        experience, achievements, and current professional goals (max. 500 symbols)*
+                    </label>
+                </div>
+                <div class="form-floating">
+                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                    <label for="floatingTextarea">In a few words, why do you want to join the mentorship program? *
+                    </label>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+        </form>
+        </div>
+    </main>
+
+</body>
+
+</html>

@@ -19,12 +19,14 @@
 
 .main-section {
     background-color: #fafafa;
+    text-align: center;
 }
 
 .percentage-section {
     display: flex;
     text-align: center;
-    /* justify-content: center; */
+    justify-content: center;
+    gap: 1em;
 
 }
 
