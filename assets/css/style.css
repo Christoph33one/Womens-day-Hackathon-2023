@@ -13,6 +13,8 @@ main {
 
 .navbar {
     padding: 0;
+    display: flex;
+    justify-content: space-around;
 }
 
 .nav-item {
@@ -38,6 +40,13 @@ main {
 .btn-primary {
     background-color:#002147;
     border-radius: 50px;
+}
+
+
+/* Home page quotes style */
+
+.blockquote p {
+    font-size: 1rem;
 }
 
 
