@@ -1,3 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Lao:wght@300;400;500;600&family=Roboto&display=swap');
+
+body {
+    font-family: "roboto", sans-serif;
+    margin: auto;
+}
+
+main {
+    margin: 1.5rem;
+}
+
+/* Navbar stylying */
+
+.navbar {
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-item {
+    font-size: medium;
+    padding: 0.5rem;
+}
+
+
 .btn-top {
     position: fixed;
     bottom: 40px;
@@ -12,6 +37,13 @@
 };
 
 
+
+
+/* Home page quotes style */
+
+.blockquote p {
+    font-size: 1rem;
+}
 
 
 /* Mentoring page styles */
