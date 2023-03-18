@@ -11,3 +11,12 @@
     padding: 15px;
     border-radius: 70px;
 };
+
+.card {
+    display:inline-block;
+}
+
+.btn-primary{
+    background-color: #002147;
+    border-radius: 50px;
+}
