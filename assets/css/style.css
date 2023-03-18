@@ -5,6 +5,10 @@ body {
     margin: auto;
 }
 
+main {
+    margin: 1.5rem;
+}
+
 /* Navbar stylying */
 
 .navbar {
