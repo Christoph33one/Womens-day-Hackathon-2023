@@ -11,3 +11,48 @@
     padding: 15px;
     border-radius: 70px;
 };
+
+
+
+/* Mentoring page styles */
+
+
+.main-section {
+    background-color: #fafafa;
+}
+
+.percentage-section {
+    display: flex;
+    text-align: center;
+    /* justify-content: center; */
+
+}
+
+.graph-one {
+    border: 1px solid black;
+    width: fit-content;
+    height: 10em;
+    background-color: rgba(0, 128, 0, 0.281);
+}
+
+.graph-two {
+    border: 1px solid black;
+    width: fit-content;
+    height: 9em;
+    background-color: rgba(0, 128, 0, 0.281);
+}
+
+.graph-three {
+    border: 1px solid black;
+    width: fit-content;
+    height: 9em;
+    background-color: rgba(0, 128, 0, 0.281);
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+    
+}
