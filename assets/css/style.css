@@ -27,6 +27,35 @@ main {
     font-size: medium;
     padding: 0.5rem;
 }
+.image-text {
+    position: absolute;
+    top: 25%;
+    color: #fafafa;
+    padding: 10px;
+    margin-left: 50%;
+
+}
+.image-expression {
+    color: #A65B84;
+}
+@media screen and (min-width:1000px) {
+    .image-text {
+        font-size: 1.8rem;
+    }
+    
+}
+@media screen and (max-width: 900px) {
+    .image-text {
+        font-size: 1.2rem;
+    }
+    
+}
+@media screen and (max-width: 500px) {
+    .image-text {
+        display: none;
+    }
+    
+}
 
 
 .btn-top {
