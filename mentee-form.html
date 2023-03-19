@@ -60,43 +60,39 @@
         </h1>
 
         <div>
-            <form>
+            <form action="/" method="GET" id="form">
                 <div class="mb-3">
-                    <label for="email" class="form-label">Email</label>
-                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
+                    <label for="email" class="form-label">Email*</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" required>
                     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                 </div>
                 <div class="mb-3">
-                    <label for="password" class="form-label">Password</label>
-                    <input type="password" class="form-control" id="password">
+                    <label for="password" class="form-label">Password*</label>
+                    <input type="password" class="form-control" id="password" required>
                 </div>
                 <div class="mb-3">
-                    <label for="fname" class="form-label">First Name</label>
-                    <input type="text" class="form-control" id="fname">
+                    <label for="fname" class="form-label">First Name*</label>
+                    <input type="text" class="form-control" id="fname" required>
                 </div>
                 <div class="mb-3">
-                    <label for="lname" class="form-label">Last Name</label>
-                    <input type="text" class="form-control" id="nmae">
+                    <label for="lname" class="form-label">Last Name*</label>
+                    <input type="text" class="form-control" id="nmae" required>
                 </div>
                 <div class="mb-3">
-                    <label for="fname" class="form-label">First Name</label>
-                    <input type="text" class="form-control" id="fname">
+                    <label for="age" class="form-label">Your age*</label>
+                    <input type="number" class="form-control" id="age" required>
                 </div>
                 <div class="mb-3">
-                    <label for="age" class="form-label">Your age</label>
-                    <input type="number" class="form-control" id="age">
-                </div>
-                <div class="mb-3">
-                    <label for="country" class="form-label">Country of residence</label>
-                    <input type="text" class="form-control" id="country">
+                    <label for="country" class="form-label">Country of residence*</label>
+                    <input type="text" class="form-control" id="country" required>
                 </div>
                 <div class="mb-3">
                     <label for="linkedin" class="form-label">LinkedIn profile</label>
                     <input type="text" class="form-control" id="linkedin">
                 </div>
                 <div class="mb-3">
-                    <label for="job" class="form-label">Job title</label>
-                    <input type="text" class="form-control" id="job">
+                    <label for="job" class="form-label">Job title*</label>
+                    <input type="text" class="form-control" id="job" required>
                 </div>
                 <div class="mb-3">
                     <label for="company" class="form-label">Company Name</label>
@@ -105,7 +101,7 @@
                 <div class="mb-3">
                     <label for="experience" class="form-label">How many years of experience do you have in your main
                         professional field?*</label>
-                    <input type="number" class="form-control" id="experience">
+                    <input type="number" class="form-control" id="experience" required>
                 </div>
 
                 <div class="mb-3 form-check">
@@ -165,12 +161,12 @@
                     <label class="form-check-label" for="job14">Other</label>
                 </div>
                 <div class="form-floating">
-                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
-                    <label for="floatingTextarea">Please describe yourself professionally in 1 sentence
+                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea" required></textarea>
+                    <label for="floatingTextarea">Please describe yourself professionally in 1 sentence*
                     </label>
                 </div>
                 <div class="form-floating">
-                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea" required></textarea>
                     <label for="floatingTextarea">Why do you want to join the mentorship program? What is your
                         motivation? How can the program help you achieve your professional goals? The answer to these
                         questions will be the main selection criterion for participation. (max. 500 symbols)*
