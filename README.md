@@ -15,6 +15,14 @@ This promotes the development of the next generation of female tech leaders and 
 
 The live website can be found [here]TBC.
 
+KP:
+Resources:
+All the images are from unsplash.com
+w3schools for back to top button
+Used Bootstrap documentation for reference
+Issues: 
+Making the button work. Button would not display. and the function would not execute properly. Solution: Make sure js file was at the bottom of the body. Also override boostrap css by specifying class. Remove duplicated content. 
+Defualt bootstrap styling was not being overridden for highlight. Solution: Use inline styling.
 
 ##	Features
 
