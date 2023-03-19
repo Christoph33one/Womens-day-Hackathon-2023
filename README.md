@@ -1,7 +1,7 @@
-![template](https://user-images.githubusercontent.com/96884287/226112257-c0e25e33-3f67-4639-83a7-494fef890596.png)
-
-
 # Femme in tech..
+
+![](assets/readme.doc/Home%20page%20image.png)
+
 
 The term "women/femme in tech" describes the presence and involvement of women in the technology industry. 
 
