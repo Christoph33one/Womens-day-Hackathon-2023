@@ -19,77 +19,94 @@
 
 <body>
 
-    <!--The navbar containing links to redirecting users to each page available-->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">Women in tech</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="aboutus.html">About us</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="history.html">History</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contactform.html">Contact</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="mentoring.html">Mentoring</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="donate.html">Donate</a>
-            </li>
-          </ul>
-        </div>
+  <!--The navbar containing links to redirecting users to each page available-->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">Women in tech</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
+        aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" aria-current="page" href="aboutus.html">About us</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="history.html">History</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contactform.html">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="mentoring.html">Mentoring</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="donate.html">Donate</a>
+          </li>
+        </ul>
       </div>
-    </nav>
-    <!--Page content starts here-->
-    <main>
-        <section>
-            <h4>Sign up</h4>
-            <p>If you are interested in knowing more just sign up this form below with a few personal information so
-                we'll be able to contact you in the future.</p>
-            <p>If there's anything you wish to say, let us now in comments section.</p>
-        </section>
-        <!-- Contact us form -->
-        <form>
-            <div class="container">
+    </div>
+  </nav>
+  <!--Page content starts here-->
+  <main>
+    <section>
+      <h4>Sign up</h4>
+      <p>If you are interested in knowing more just sign up this form below with a few personal information so
+        we'll be able to contact you in the future.</p>
+      <p>If there's anything you wish to say, let us now in comments section.</p>
+    </section>
+    <!-- Contact us form -->
+    <form>
+      <div class="container">
+
+        <div class="mb-3">
+          <label class="form-label">First Name</label>
+          <input type="text" class="form-control" aria-describedby="firstname" placeholder="Mark">
+
+          <div class="mb-3">
+            <label class="form-label">Last Name</label>
+            <input type="text" class="form-control" aria-describedby="lastname" placeholder="Smith">
+
+            <div class="mb-3">
+              <label class="form-label">Email address</label>
+              <input type="email" class="form-control" aria-describedby="email" placeholder="marksmith@smt.net">
+
+              <div class="mb-3">
+                <label class="form-label">Contact number(optional)</label>
+                <input type="text" class="form-control" aria-describedby="contactnumber" placeholder="+38 123 456 7890">
 
                 <div class="mb-3">
-                    <label class="form-label">First Name</label>
-                    <input type="text" class="form-control" aria-describedby="firstname" placeholder="Mark">
+                  <label class="form-label">Comments</label>
+                  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"
+                    placeholder="I just wanted to say this is such a great website."></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
 
-                    <div class="mb-3">
-                        <label class="form-label">Last Name</label>
-                        <input type="text" class="form-control" aria-describedby="lastname" placeholder="Smith">
-
-                        <div class="mb-3">
-                            <label class="form-label">Email address</label>
-                            <input type="email" class="form-control" aria-describedby="email"
-                                placeholder="marksmith@smt.net">
-
-                            <div class="mb-3">
-                                <label class="form-label">Contact number(optional)</label>
-                                <input type="text" class="form-control" aria-describedby="contactnumber"
-                                    placeholder="+38 123 456 7890">
-
-                                <div class="mb-3">
-                                    <label class="form-label">Comments</label>
-                                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"
-                                        placeholder="I just wanted to say this is such a great website."></textarea>
-                                </div>
-                                <button type="submit" class="btn btn-primary">Submit</button>
-                                
-                            </div>
+              </div>
 
 
-        </form>
+    </form>
 
-    </main>
+  </main>
 
 </body>
+<footer style="background-color: red;" class="text-center">
+  <div class="footer-row">
+    <a href="https://www.instagram.com/"><i class="fa-brands fa-instagram"></i></a>
+    <a href="https://www.facebook.com/"><i class="fa-brands fa-facebook"></i></a>
+    <a href="https://www.twitter.com/"><i class="fa-brands fa-twitter"></i></a>
+    <a href="https://www.whatsapp.com/"><i class="fa-brands fa-whatsapp"></i></a>
+  </div>
+  <div class="footer-row">
+    <a class="nav-link" href="index.html">Home</a>
+    <a class="nav-link" href="contactform.html">Contact</a>
+    <a class="nav-link" href="privacy.html">Privacy Policy</a>
+    <a class="nav-link" href="aboutus.html">About us</a>
+  </div>
+  <div class="footer-row">
+    <p>&copy; Femme in tech.. - Hackathon 2023</p>
+  </div>
+</footer>
+
 </html>
