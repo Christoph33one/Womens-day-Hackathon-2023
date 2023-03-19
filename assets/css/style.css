@@ -49,7 +49,7 @@ main {
 }
 /* header image */
 
-img{
+.img-block{
     width: 100%;
     height: auto;
     
@@ -65,8 +65,14 @@ img{
     color: #2B1E59;
 }
 
-/* Mentoring page styles */
+/* About us page styles */
 
+.info-box {
+    margin: 2.0rem;
+}
+
+
+/* Mentoring page styles */
 
 .main-section {
     background-color: #fafafa;
