@@ -11,8 +11,6 @@ Celebrating women in tech involves acknowledging their achievements and contribu
 This promotes the development of the next generation of female tech leaders and fosters a more diverse and inclusive industry.
 
 ---
-<mokup>
----
 
 The live website can be found [here]TBC.
 ADD LIVE SITE HERE!!!
@@ -25,6 +23,8 @@ ADD LIVE SITE HERE!!!
 <li><a href="#future-features">Future Features</a></li>
 <li><a href="#typography">Typography & Color Scheme</a></li>
 <li><a href="#wire-frames">Wireframes / flow chart</a></li>
+<li><a href="#features">Features</a></li>
+
 
 KP:
 Resources:
@@ -34,15 +34,6 @@ Used Bootstrap documentation for reference
 Issues: 
 Making the button work. Button would not display. and the function would not execute properly. Solution: Make sure js file was at the bottom of the body. Also override boostrap css by specifying class. Remove duplicated content. 
 Defualt bootstrap styling was not being overridden for highlight. Solution: Use inline styling.
-
-##	Features
-
-A favicon has been implemented with women coding to symbolize the meaning of the page and at the same time to allow users to easily identify this website if they have multiple tabs open.
-
-![png-transparent-laptop-girl-thinking-woman-electronics-hand-computer-thumbnail-removebg-preview](https://user-images.githubusercontent.com/96884287/226112480-61705667-2629-446c-a361-7e3338fea014.png)
-
-
-At the same time, the title has been selected to offer a clear description of the page where the user is navigating, such as Home, About, History, Contact Us, Mentoring and Donate page.
 
 ---
 
@@ -73,8 +64,9 @@ NEEDS AN IMAGE HERE!!!!
 
 
 3. History
+At Femme Tech, we believe in celebrating the achievements of women in tech, both past and present. History may seem boring, but the stories of superwomen like Ada Lovelace and Annie Easley are anything but. Lovelace was the world's first computer programmer, while Easley was a groundbreaker for gender and racial diversity in the field. Our page is dedicated to educating and inspiring our users with the amazing contributions of women in tech, and reminding them of the endless possibilities for their own future in the industry.
 
-add pic
+![](assets/readme.doc/history%20image.png)
 
 4. Contact Us
 
@@ -129,7 +121,16 @@ On the 404 page a home button has been implemented in order to allow users to be
 
 ## Features left to implement. 
 
-tbc.
+
+##	Features
+
+A favicon has been implemented with women coding to symbolize the meaning of the page and at the same time to allow users to easily identify this website if they have multiple tabs open.
+
+![png-transparent-laptop-girl-thinking-woman-electronics-hand-computer-thumbnail-removebg-preview](https://user-images.githubusercontent.com/96884287/226112480-61705667-2629-446c-a361-7e3338fea014.png)
+
+
+At the same time, the title has been selected to offer a clear description of the page where the user is navigating, such as Home, About, History, Contact Us, Mentoring and Donate page.
+
 
 
 ## Wireframes
