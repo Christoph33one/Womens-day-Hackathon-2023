@@ -17,14 +17,19 @@ ADD LIVE SITE HERE!!!
 
 # List of contents
 <li><a href="#project-goal">Project goal</a></li>
+<li><a href="#target-audience">Target Audience</a></li>
 <li><a href="#home-page">Landing page</a></li>
 <li><a href="#about-us">About us</a></li>
-<li><a href="#target-audience">Target Audience</a></li>
+<li><a href="#history">History</a></li>
 <li><a href="#future-features">Future Features</a></li>
 <li><a href="#typography">Typography & Color Scheme</a></li>
 <li><a href="#wire-frames">Wireframes / flow chart</a></li>
 <li><a href="#features">Features</a></li>
 
+# Target Audience 
+The target audience for Femme Tech is women who are interested in or currently pursuing careers in technology. This includes students studying computer science, engineering, and related fields, as well as professionals working in various roles within the tech industry. Our website is also relevant to women who are considering a career change or exploring opportunities in tech. In addition to women in the tech industry, we also aim to reach individuals who are passionate about promoting diversity and inclusion in the workplace. We welcome all genders, ages, and backgrounds to join our community, support our mission and view our website.
+
+---
 
 KP:
 Resources:
@@ -52,19 +57,19 @@ In the second section, we give our users a glimpse into the inspiring stories of
 # About Us
 - About Us: At Femme Tech, our mission is to empower women in technology. Our "About Us" section provides a comprehensive overview of our organization, including our goals, values, and the services we provide to our community.
 
-Mentoring Program: Our mentoring program is a cornerstone of our organization, connecting aspiring female tech professionals with experienced mentors who provide guidance and support throughout their career journey. Our mentors are passionate about empowering women in tech and helping them achieve their goals.
+- Mentoring Program: Our mentoring program is a cornerstone of our organization, connecting aspiring female tech professionals with experienced mentors who provide guidance and support throughout their career journey. Our mentors are passionate about empowering women in tech and helping them achieve their goals.
 
-Community: At Femme Tech, we believe in the power of community. We're proud to have a supportive network of like-minded individuals who share our commitment to creating a more inclusive and diverse industry. Our community is a place where women in tech can learn, connect, and grow together.
+- Community: At Femme Tech, we believe in the power of community. We're proud to have a supportive network of like-minded individuals who share our commitment to creating a more inclusive and diverse industry. Our community is a place where women in tech can learn, connect, and grow together.
 
-Inspiring Women in Technology: We believe that inspiring women to pursue careers in technology is crucial for creating a more diverse and inclusive industry. Our website explains why this is so important, highlighting the positive impact that women can have on the industry and the benefits of greater diversity.
+- Inspiring Women in Technology: We believe that inspiring women to pursue careers in technology is crucial for creating a more diverse and inclusive industry. Our website explains why this is so important, highlighting the positive impact that women can have on the industry and the benefits of greater diversity.
 
-Supporting Other Initiatives: We're committed to supporting other initiatives that promote opportunities for women in tech and empower them to achieve their goals. We partner with non-profit organizations across the world to help make a difference in the lives of women in tech and to create a brighter future for all.
+- Supporting Other Initiatives: We're committed to supporting other initiatives that promote opportunities for women in tech and empower them to achieve their goals. We partner with non-profit organizations across the world to help make a difference in the lives of women in tech and to create a brighter future for all.
 
 NEEDS AN IMAGE HERE!!!!
 
 --- 
 
-3. History
+# History
 At Femme Tech, we believe in celebrating the achievements of women in tech, both past and present. History may seem boring, but the stories of superwomen like Ada Lovelace and Annie Easley are anything but. Lovelace was the world's first computer programmer, while Easley was a groundbreaker for gender and racial diversity in the field. Our page is dedicated to educating and inspiring our users with the amazing contributions of women in tech, and reminding them of the endless possibilities for their own future in the industry.
 
 ![](assets/readme.doc/history%20image.png)
