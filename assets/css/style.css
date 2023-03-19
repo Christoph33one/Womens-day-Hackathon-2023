@@ -108,7 +108,6 @@ main {
 .main-section {
     text-align: center;
     margin: 0 auto;
-    max-width: 90%;
     color: #fff;
 }
 
@@ -121,7 +120,7 @@ main {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 500px;
+    height: 60vh;
 }
 
 .percentage-section {
