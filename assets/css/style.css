@@ -9,6 +9,12 @@ main {
     margin: 1.5rem;
 }
 
+.container-img {
+    width: 100%;
+    height: auto;
+}
+
+
 /* Navbar stylying */
 
 .navbar {
