@@ -225,4 +225,8 @@ main {
         margin: 0 auto;
         max-width: 90%;
     }
+
+    .btn {
+        margin-top: 1.5em;
+    }
 }
