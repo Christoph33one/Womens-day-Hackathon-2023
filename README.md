@@ -62,15 +62,18 @@ Supporting Other Initiatives: We're committed to supporting other initiatives th
 
 NEEDS AN IMAGE HERE!!!!
 
+--- 
 
 3. History
 At Femme Tech, we believe in celebrating the achievements of women in tech, both past and present. History may seem boring, but the stories of superwomen like Ada Lovelace and Annie Easley are anything but. Lovelace was the world's first computer programmer, while Easley was a groundbreaker for gender and racial diversity in the field. Our page is dedicated to educating and inspiring our users with the amazing contributions of women in tech, and reminding them of the endless possibilities for their own future in the industry.
 
 ![](assets/readme.doc/history%20image.png)
 
-4. Contact Us
+---
 
-add pic
+4. Contact Us
+At Femme Tech, we want to make it easy for users to get in touch with us. That's why we've created a simple and user-friendly contact form. To ensure that we can respond to your inquiry or feedback in a timely manner, we do require that the name and email fields be filled out before submitting the form. This is a standard form validation process that helps us avoid spam and ensures that we can get back to you as quickly as possible. We look forward to hearing from you!
+![](assets/readme.doc/contact%20page%20image.png)
 
 5. Mentoring
 
