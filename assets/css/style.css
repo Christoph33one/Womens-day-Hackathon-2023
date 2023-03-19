@@ -3,6 +3,8 @@
 body {
     font-family: "roboto", sans-serif;
     margin: auto;
+    background-color: #fafafa;
+    box-sizing: border-box;
 }
 
 main {
@@ -104,8 +106,22 @@ main {
 /* Mentoring page styles */
 
 .main-section {
-    background-color: #fafafa;
     text-align: center;
+    margin: 0 auto;
+    max-width: 90%;
+    color: #fff;
+}
+
+.main-section p {
+    margin: 0;
+}
+
+.hero-image {
+    background-image: url('../images/hero-image-mentoring.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
 }
 
 .percentage-section {
@@ -113,8 +129,12 @@ main {
     text-align: center;
     justify-content: center;
     gap: 1em;
+    margin-top: 2em;
+    color: #000;
 
 }
+
+
 
 .graph-one {
     border: 1px solid black;
@@ -142,5 +162,67 @@ main {
     flex-direction: column;
     justify-content: end;
     align-items: center;
+    color: #000;
+    margin: 1em auto;
+    max-width: 60%;
     
+}
+
+.mentoring {
+    background-color: #dddbdb;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+    margin-top: 1em;
+}
+
+.mentoring div {
+    padding: 1em;
+}
+
+.selection-main {
+    background-color: #dddbdb;
+    margin-bottom: 1.5em;
+}
+
+.selection {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+.form-container {
+    margin: 0 auto;
+    max-width: 65%;
+}
+
+.form-floating {
+    margin-bottom: 1.5em;
+}
+
+.btn {
+    margin-right: 1em;
+}
+
+
+/* Media queries */
+
+
+@media screen and (max-width: 600px) {
+    .percentage-section {
+        flex-direction: column;
+    }
+
+    .mentoring {
+        display: block;
+    }
+
+    .selection {
+        display: block;   
+    }
+
+    .form-container {
+        margin: 0 auto;
+        max-width: 90%;
+    }
 }
