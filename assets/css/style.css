@@ -38,7 +38,7 @@ main {
 .image-expression {
     color: #A65B84;
 }
-@media screen and (min-width:1000px) {
+@media screen and (min-width:1500px) {
     .image-text {
         font-size: 1.8rem;
     }
