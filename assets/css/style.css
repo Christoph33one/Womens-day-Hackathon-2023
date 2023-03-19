@@ -47,7 +47,23 @@ main {
 .blockquote p {
     font-size: 1rem;
 }
+/* header image */
 
+img{
+    width: 100%;
+    height: auto;
+    
+}
+/*nav bar span*/
+.navbar-brand {
+    font-size: 2.5rem;
+}
+.span-color {
+    color:  #2B1E59;;
+}
+.text-expression {
+    color: #2B1E59;
+}
 
 /* Mentoring page styles */
 
