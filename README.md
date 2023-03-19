@@ -3,6 +3,7 @@
 ![](assets/readme.doc/Home%20page%20image.png)
 
 
+# Project goal
 The term "women/femme in tech" describes the presence and involvement of women in the technology industry. 
 
 Celebrating women in tech involves acknowledging their achievements and contributions to the field, as well as supporting initiatives that encourage more women to pursue careers in technology. 
@@ -14,6 +15,16 @@ This promotes the development of the next generation of female tech leaders and 
 ---
 
 The live website can be found [here]TBC.
+ADD LIVE SITE HERE!!!
+
+# List of contents
+<li><a href="#project-goal">Project goal</a></li>
+<li><a href="#home-page">Landing page</a></li>
+<li><a href="#about-us">About us</a></li>
+<li><a href="#target-audience">Target Audience</a></li>
+<li><a href="#future-features">Future Features</a></li>
+<li><a href="#typography">Typography & Color Scheme</a></li>
+<li><a href="#wire-frames">Wireframes / flow chart</a></li>
 
 KP:
 Resources:
@@ -33,13 +44,33 @@ A favicon has been implemented with women coding to symbolize the meaning of the
 
 At the same time, the title has been selected to offer a clear description of the page where the user is navigating, such as Home, About, History, Contact Us, Mentoring and Donate page.
 
-1. Home page
+---
 
-Add pic
+# Home page
+![](assets/readme.doc/home%20page%20writeup.png)
+With the use of a striking image, we aim to give users a clear understanding of the main objective of our website - empowering women in tech. Our homepage comprises of two main sections.
 
-2. About Us Page
+The first section features a visually captivating image that showcases our mission and values at Famme Tech. Along with the image, we provide a concise yet compelling description of our goals and aspirations.
 
-Add pic
+
+In the second section, we give our users a glimpse into the inspiring stories of women who are making a significant impact in the tech industry. Through their reviews, you'll gain insight into the challenges they have faced and how they have overcome them, as well as the positive impact they have made on their colleagues, clients, and communities. These women are trailblazers, and their stories are a testament to the importance of diversity and inclusion in the tech sector.
+![](assets/readme.doc/home%20page%20blogs.png)
+
+--- 
+
+# About Us
+- About Us: At Femme Tech, our mission is to empower women in technology. Our "About Us" section provides a comprehensive overview of our organization, including our goals, values, and the services we provide to our community.
+
+Mentoring Program: Our mentoring program is a cornerstone of our organization, connecting aspiring female tech professionals with experienced mentors who provide guidance and support throughout their career journey. Our mentors are passionate about empowering women in tech and helping them achieve their goals.
+
+Community: At Femme Tech, we believe in the power of community. We're proud to have a supportive network of like-minded individuals who share our commitment to creating a more inclusive and diverse industry. Our community is a place where women in tech can learn, connect, and grow together.
+
+Inspiring Women in Technology: We believe that inspiring women to pursue careers in technology is crucial for creating a more diverse and inclusive industry. Our website explains why this is so important, highlighting the positive impact that women can have on the industry and the benefits of greater diversity.
+
+Supporting Other Initiatives: We're committed to supporting other initiatives that promote opportunities for women in tech and empower them to achieve their goals. We partner with non-profit organizations across the world to help make a difference in the lives of women in tech and to create a brighter future for all.
+
+NEEDS AN IMAGE HERE!!!!
+
 
 3. History
 
