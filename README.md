@@ -203,6 +203,12 @@ Navigate to the GitHub Repository you want to clone to use locally:
 
 ### Validation checks
 
+The pages underwent validation checks to ensure that every line of code was scrutinized for syntax errors, including missing delimiters or other necessary parameters. Syntax errors such as open tags, misspellings, and forgotten quotation marks, colons, or equal signs may still render a web page, but the resulting output may differ from the designer's original intent due to malfunctioning tags or elements.
+
+In essence, an HTML validator verifies whether a web page's HTML and CSS codes adhere to the standards established by the World Wide Web Consortium (W3C). 
+
+
+
 HTML 
 Index.html - passed all checks
 ![](assets/readme.doc/index.html%20valadation%20pass.png)
