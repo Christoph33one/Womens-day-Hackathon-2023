@@ -1,6 +1,13 @@
 # Femme in tech..
 
 ![](assets/readme.doc/Home%20page%20image.png)
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
 
 A project by: 
 [Chris](https://github.com/Christoph33one)
@@ -233,6 +240,9 @@ Mentor-form.html - passed all checks
 ![](assets/readme.doc/mentor-form-html-validation.jpg)
 Donate.html - passed all checks
 ![Donate](assets/readme.doc/donate.html-validation.png)
+
+CSS 
+![css](assets/readme.doc/css-validation.png)
 
 JS
 script.js validation 
