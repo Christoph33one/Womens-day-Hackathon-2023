@@ -24,9 +24,8 @@ This promotes the development of the next generation of female tech leaders and 
 <li><a href="#contact-us">Contact us</a></li>
 <li><a href="#mentoring">Mentors</a></li>
 <li><a href="#donating">Donating</a></li>
-<li><a href="#future-features">Future Features</a></li>
 <li><a href="#typography">Typography & Color Scheme</a></li>
-<li><a href="#wire-frames">Wireframes / flow chart</a></li>
+<li><a href="#wire-frames">Wireframes</a></li>
 <li><a href="#features">Features</a></li>
 <li><a href="#testing">Testing</a></li>
 
@@ -121,8 +120,6 @@ The website has been implemented with type of error in order to allow users to b
 On the 404 page a home button has been implemented in order to allow users to be able to return home without using the back arrow button.
 
 
-## Features left to implement. 
-
 
 ##	Features
 
@@ -135,34 +132,40 @@ At the same time, the title has been selected to offer a clear description of th
 
 
 
-## Wireframes
+# Wireframes
 
 The wireframes have been created in order to allow the members of the team to have an overview of what the website will look like or a simple vision to guide us to completion of the website.
 
 However, the website frameworks have not really been followed as we decided to implement a more simplicity for the pages so that users will find it more easily to familiarise with the webpage.
 
 
-### Home page & Mobile view:
+### Home page
+![](assets/readme.doc/homepage%20wireframepng.png)
 
 
-### About Us page & Mobile View:
+### About Us page:
+![](assets/readme.doc/aboutuspage%20wireframepng.png)
 
+---
 
-### History page & Mobile View:
+### History page:
+![](assets/readme.doc/historypage%20wireframepng.png)
 
+---
 
-### Contact Us page & Mobile view:
+### Contact Us page:
+NEED TO ADD AN IMAGE!!
+---
 
+### Mentoring page
+![](assets/readme.doc/mentoring%20page%20wirframepng.png)
 
-### Mentoring page & Mobile view:
-
+---
 
 ### Donate page & Mobile view:
+![](assets/readme.doc/donationpage%20wirframepng.png)
 
-
-### 404 Error page & Mobile view:
-
-
+---
 
 ## Technologies.
 
@@ -203,7 +206,7 @@ Navigate to the GitHub Repository you want to clone to use locally:
 
 ### Validation checks
 
-The pages underwent validation checks to ensure that every line of code was scrutinized for syntax errors, including missing delimiters or other necessary parameters. Syntax errors such as open tags, misspellings, and forgotten quotation marks, colons, or equal signs may still render a web page, but the resulting output may differ from the designer's original intent due to malfunctioning tags or elements.
+All pages underwent validation checks to ensure that every line of code was scrutinized for syntax errors, including missing delimiters or other necessary parameters. Syntax errors such as open tags, misspellings, and forgotten quotation marks, colons, or equal signs may still render a web page, but the resulting output may differ from the designer's original intent due to malfunctioning tags or elements.
 
 In essence, an HTML validator verifies whether a web page's HTML and CSS codes adhere to the standards established by the World Wide Web Consortium (W3C). 
 
