@@ -28,6 +28,7 @@ ADD LIVE SITE HERE!!!
 <li><a href="#typography">Typography & Color Scheme</a></li>
 <li><a href="#wire-frames">Wireframes / flow chart</a></li>
 <li><a href="#features">Features</a></li>
+<li><a href="#testing">Testing</a></li>
 
 # Target Audience 
 The target audience for Femme Tech is women who are interested in or currently pursuing careers in technology. This includes students studying computer science, engineering, and related fields, as well as professionals working in various roles within the tech industry. Our website is also relevant to women who are considering a career change or exploring opportunities in tech. In addition to women in the tech industry, we also aim to reach individuals who are passionate about promoting diversity and inclusion in the workplace. We welcome all genders, ages, and backgrounds to join our community, support our mission and view our website.
@@ -196,6 +197,16 @@ Navigate to the GitHub Repository you want to clone to use locally:
 4.	Open your IDE of choice. (git must be installed for the next steps)
 5.	Type git clone copied-git-url into the IDE terminal. The project will now be cloned on your local machine for use.
 
-Credits
+---
+
+# Testing
+
+### Validation checks
+
+HTML 
+Index.html - passed all checks
+![](assets/readme.doc/index.html%20valadation%20pass.png)
+
+CREDITS TO BE ADDED!!!
 
 # Thank you. 
