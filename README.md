@@ -23,6 +23,7 @@ ADD LIVE SITE HERE!!!
 <li><a href="#history">History</a></li>
 <li><a href="#contact-us">Contact us</a></li>
 <li><a href="#mentoring">Mentors</a></li>
+<li><a href="#donating">Donating</a></li>
 <li><a href="#future-features">Future Features</a></li>
 <li><a href="#typography">Typography & Color Scheme</a></li>
 <li><a href="#wire-frames">Wireframes / flow chart</a></li>
@@ -101,41 +102,16 @@ Our mentee program offers an alternative option for individuals who may not have
 
 --- 
 
-6. Donate pag
+# Donating
+Our modern world isn't so modern for some. We aimed to broaden the user's understanding of how vital it is to extend beyond our own communities and consider the needs of women in other areas. In today's world, numerous challenges persist, which may not seem as contemporary to some. Thus, we incorporated a donations section, where users can learn about two non-profit organizations that offer significant assistance to women living in underprivileged communities. These organizations operate in regions where corruption, war, disease, and governmental control have hindered women from receiving adequate education or pursuing a better life and career. 
 
-add pic
+![](assets/readme.doc/donations%20page%20image.png)
 
+Click on any of two links and the user will be directed to a donations website.
 
-###	Home Page
+![](assets/readme.doc/donations%20image%202.png)
 
-Tbc text description <><><
-
--	Preview of the website landing page.
-
-tbc picture of website
-
-etc features
-
-
-###	About page
-
-tbc features and pics <><><><
-
-###	History
-
-tbc features and pics <><><><
-
-### Contact Us
-
-tbc features and pics <><><><
-
-### Mentoring 
-
-tbc features and pics <><><><
-
-### Donate
-
-tbc features and pics <><><><
+---
 
 ###	404 page 
 
