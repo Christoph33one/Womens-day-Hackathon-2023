@@ -218,6 +218,8 @@ Mentee-form.html - passed all checks
 ![](assets/readme.doc/mentee-form-html-validation.jpg)
 Mentor-form.html - passed all checks
 ![](assets/readme.doc/mentor-form-html-validation.jpg)
+Donate.html - passed all checks
+![Donate](assets/readme.doc/donate.html-validation.png)
 
 CREDITS TO BE ADDED!!!
 
