@@ -12,8 +12,8 @@ This promotes the development of the next generation of female tech leaders and 
 
 ---
 
-The live website can be found [here]TBC.
-ADD LIVE SITE HERE!!!
+### The live website can be found [here](https://christoph33one.github.io/Womens-day-Hackathon-2023/index.html)
+
 
 # List of contents
 <li><a href="#project-goal">Project goal</a></li>
@@ -212,6 +212,12 @@ In essence, an HTML validator verifies whether a web page's HTML and CSS codes a
 HTML 
 Index.html - passed all checks
 ![](assets/readme.doc/index.html%20valadation%20pass.png)
+Mentoring.html - passed all checks
+![](assets/readme.doc/mentoring-html-validation.jpg)
+Mentee-form.html - passed all checks
+![](assets/readme.doc/mentee-form-html-validation.jpg)
+Mentor-form.html - passed all checks
+![](assets/readme.doc/mentor-form-html-validation.jpg)
 
 CREDITS TO BE ADDED!!!
 

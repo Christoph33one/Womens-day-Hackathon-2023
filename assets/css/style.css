@@ -167,6 +167,10 @@ main {
     
 }
 
+.flex ul li {
+    text-align: justify;
+}
+
 .mentoring {
     background-color: #dddbdb;
     display: grid;
