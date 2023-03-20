@@ -1,7 +1,22 @@
 # Femme in tech..
 
 ![](assets/readme.doc/Home%20page%20image.png)
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
 
+A project by: 
+[Chris](https://github.com/Christoph33one)
+[Hannah](https://github.com/Hanmb17)
+[KP](https://github.com/ARcKP98)
+[Otto](https://github.com/Oxyotl)
+[Sofia](https://github.com/Sofia-Bourdon)
+[Razvan](https://github.com/bubtroniq)
+[Vasi](https://github.com/Vasi012) 
 
 # Project goal
 The term "women/femme in tech" describes the presence and involvement of women in the technology industry. 
@@ -33,15 +48,6 @@ This promotes the development of the next generation of female tech leaders and 
 The target audience for Femme Tech is women who are interested in or currently pursuing careers in technology. This includes students studying computer science, engineering, and related fields, as well as professionals working in various roles within the tech industry. Our website is also relevant to women who are considering a career change or exploring opportunities in tech. In addition to women in the tech industry, we also aim to reach individuals who are passionate about promoting diversity and inclusion in the workplace. We welcome all genders, ages, and backgrounds to join our community, support our mission and view our website.
 
 ---
-
-KP:
-Resources:
-All the images are from unsplash.com
-w3schools for back to top button
-Used Bootstrap documentation for reference
-Issues: 
-Making the button work. Button would not display. and the function would not execute properly. Solution: Make sure js file was at the bottom of the body. Also override boostrap css by specifying class. Remove duplicated content. 
-Defualt bootstrap styling was not being overridden for highlight. Solution: Use inline styling.
 
 ---
 
@@ -110,6 +116,17 @@ Our modern world isn't so modern for some. We aimed to broaden the user's unders
 Click on any of two links and the user will be directed to a donations website.
 
 ![](assets/readme.doc/donations%20image%202.png)
+
+# Typography & Color Scheme
+
+Typography 
+The fonts used were Roboto and Sans serif
+![](assets/readme.doc/typography.png)
+
+Color Scheme 
+![](assets/readme.doc/colour-scheme.png)
+
+
 
 ---
 
@@ -223,6 +240,14 @@ Mentor-form.html - passed all checks
 ![](assets/readme.doc/mentor-form-html-validation.jpg)
 Donate.html - passed all checks
 ![Donate](assets/readme.doc/donate.html-validation.png)
+
+CSS 
+![css](assets/readme.doc/css-validation.png)
+
+JS
+script.js validation 
+![jshint](assets/readme.doc/jshint-validation.png)
+
 
 CREDITS TO BE ADDED!!!
 
