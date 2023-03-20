@@ -170,9 +170,6 @@ However, the website frameworks have not really been followed as we decided to i
 
 ---
 
-### Contact Us page:
-NEED TO ADD AN IMAGE!!
----
 
 ### Mentoring page
 ![](assets/readme.doc/mentoring%20page%20wirframepng.png)
