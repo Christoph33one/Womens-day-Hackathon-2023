@@ -21,6 +21,8 @@ ADD LIVE SITE HERE!!!
 <li><a href="#home-page">Landing page</a></li>
 <li><a href="#about-us">About us</a></li>
 <li><a href="#history">History</a></li>
+<li><a href="#contact-us">Contact us</a></li>
+<li><a href="#mentoring">Mentors</a></li>
 <li><a href="#future-features">Future Features</a></li>
 <li><a href="#typography">Typography & Color Scheme</a></li>
 <li><a href="#wire-frames">Wireframes / flow chart</a></li>
@@ -76,15 +78,30 @@ At Femme Tech, we believe in celebrating the achievements of women in tech, both
 
 ---
 
-4. Contact Us
+# Contact Us
 At Femme Tech, we want to make it easy for users to get in touch with us. That's why we've created a simple and user-friendly contact form. To ensure that we can respond to your inquiry or feedback in a timely manner, we do require that the name and email fields be filled out before submitting the form. This is a standard form validation process that helps us avoid spam and ensures that we can get back to you as quickly as possible. We look forward to hearing from you!
 ![](assets/readme.doc/contact%20page%20image.png)
 
-5. Mentoring
+--- 
 
-add pic
+# Mentoring
+At Femme Tech, our mentoring program is a cornerstone of our mission. We understand the importance of structure and personalized attention in supporting women as they navigate the tech industry. That's why we've created a robust and validated form that allows potential mentors to share their expertise and experience with our community. Whether you're a seasoned professional or just starting out in your career, our mentoring program provides a valuable opportunity to help teach and support women in tech. We welcome anyone who is passionate about empowering women and promoting diversity and inclusion in the industry to join us in this effort.
+![](assets/readme.doc/mentor%20page%20image.png)
 
-6. Donate page
+### Become a mentor
+Our mentoring program features a comprehensive form with form validation, designed to gather important personal information and skill sets from potential mentors. We understand the value of matching mentees with the right mentors, and our detailed form helps us achieve this goal. We encourage individuals who are passionate about supporting women in tech to sign up as mentors and join our community.
+![](assets/readme.doc/mentor%20form.png)
+![](assets/readme.doc/mentor%20form%202.png)
+
+### Become a mentee
+The mentee program is another alternative. Not all people ahve a big skills set, but could still be a very valuable mentee and have the right passion and motivation. This form is of similar structure as to the mentor form. User will need to added personal details but some skills, although skills are not required. 
+
+Our mentee program offers an alternative option for individuals who may not have an extensive skill set, but possess the passion and motivation to succeed in the tech industry. Our mentee form follows a similar structure to our mentor form, requiring personal details but not necessarily specific skills. We believe that everyone deserves the opportunity to learn and grow, and our mentee program is designed to help women in tech do just that.
+![](assets/readme.doc/mentoring%20buttons%20image.png)
+
+--- 
+
+6. Donate pag
 
 add pic
 
